@@ -1,0 +1,20 @@
+{
+  "name": "marketingCroller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node local/rawindex",
+    "test": "node fnTest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "partial-js": "^1.1.4",
+    "phantomjs-prebuilt": "^2.1.16",
+    "slack-node": "^0.1.8",
+    "webpage": "^0.3.0"
+  }
+}
